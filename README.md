@@ -1,5 +1,5 @@
 <h1 align="center">Hola , soy Daniel Calvopiña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <hr/> <h4 align="center">Soy estudiante de 7mo Semestre de Ingeniera en sistemas en la Universidad Catolica del Ecuador, me gusta programar y me centro mas en Base de Datos y Backend.</h4> <br> <p align="center">
-🛠️ Mis Habilidades
+🛠️ Mis Habilidades </a> </p>
 👉 Lenguajes de Programación
 <p align="left"> &emsp; <a href="https://www.cprogramming.com/" target="_blank"> <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"> </a> &emsp; <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"> </a> &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"> </a> &emsp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"> </a> &emsp; <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> </p>
 👉 Desarrollo Frontend
